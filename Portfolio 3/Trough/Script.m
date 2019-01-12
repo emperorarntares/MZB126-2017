@@ -1,0 +1,1 @@
+[message,Area] = n9934731trough(@(x) -log(x+0.01) + exp(x),1.8267)
