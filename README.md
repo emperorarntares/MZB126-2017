@@ -1,2 +1,2 @@
 # MZB126-2017
-Engineering Computation
+Portfolio tasks which contain problem solving questions and MATLAB exercises.
